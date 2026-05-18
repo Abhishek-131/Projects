@@ -145,8 +145,8 @@ npm start
 
 **Abhishek Kumar**
 
-- GitHub: https://github.com/your-github
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/abhishek-131/
+- LinkedIn: https://linkedin.com/in/abhishekkumar131
 
 ---
 
