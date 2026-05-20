@@ -111,10 +111,27 @@ npm start
 ## 📸 Screenshots
 
 - Home Page
+
+  <img width="1359" height="861" alt="image" src="https://github.com/user-attachments/assets/a3eeb1fa-ec17-43ab-9d4e-6e68e80bcdaa" />
+
 - Food Menu
+  
+  <img width="1347" height="764" alt="image" src="https://github.com/user-attachments/assets/ae104f52-59c2-4580-8c3a-63544a545d4b" />
+
 - Cart Page
+  
+  <img width="1293" height="598" alt="image" src="https://github.com/user-attachments/assets/588bf19d-df00-4015-b35d-4948158423cd" />
+
 - Login/Register Page
+  
+  <img width="1346" height="778" alt="image" src="https://github.com/user-attachments/assets/c6b5f97c-f681-4039-ad93-f7a6f777f0b9" />
+
+  <img width="1389" height="838" alt="image" src="https://github.com/user-attachments/assets/b48a1470-bd7f-421f-942e-c6b1574772e1" />
+
 - Admin Dashboard
+  
+  <img width="1366" height="839" alt="image" src="https://github.com/user-attachments/assets/37671111-f71e-4e44-bde7-324aa9795848" />
+
 
 ---
 
